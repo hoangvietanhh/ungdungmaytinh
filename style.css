@@ -1,0 +1,26 @@
+button {
+    font-size: 30px;
+    height: 70px;
+    width: 100px;
+    text-align: center;
+    border: black solid 2px;
+    color: blue;
+    border-radius: 20px;
+}
+
+
+h3 {
+    font-size: 30px;
+    text-align: right;
+}
+
+
+fieldset{
+    height: 80px;
+    width: border-box;
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-right: 25px;
+    border-radius: 10px;
+    background-color: white;
+}
